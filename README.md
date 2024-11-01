@@ -38,3 +38,10 @@ Java Development Kit (JDK)가 설치되어 있어야 합니다. 아래의 명령
 ```bash
 javac Calculate_12.java
 java cheonhun.Calculate_12
+
+## 기술 스택
+- Java
+- Java Swing
+
+## 라이센스
+이 프로젝트는 자유롭게 사용 및 수정할 수 있습니다.
